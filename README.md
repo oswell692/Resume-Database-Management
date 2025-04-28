@@ -15,5 +15,5 @@ This is a simple Python project using SQLite that allows users to enter their re
 - SQLite3
 
 ## How to run
-1. Run `resume_entry.py` to add resume details.
-2. Run `resume_search.py` to search and display resume information.
+1. Run `resume_database.py` to add resume details.
+2. Run `search_resume.py` to search and display resume information.
